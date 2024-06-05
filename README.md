@@ -8,7 +8,7 @@ HDCyberbullying is a celebrity cyberbullying dataset we created, which was extra
 #### Emotion detection domain
 We use [GoEmotions dataset](https://paperswithcode.com/dataset/goemotions)
 
-## Experiments guider
+## Experiments
 The source code is written in Python and is a Jupyter Notebook. 
 #### [1]Install the requirements using the following command:
 ```bash
