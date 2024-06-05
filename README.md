@@ -4,7 +4,7 @@ Implementation of paper: Detecting harassment and defamation in cyberbullying wi
 
 ## Datasets
 #### Cyberbullying detection domain
-HDCyberbullying is a celebrity cyberbullying dataset we created, which was extracted from  [cyberbullying dataset](https://www.kaggle.com/datasets/surekharamireddy/malignant-comment-classification) and [Fake news dataset](https://paperswithcode.com/dataset/fakenewsamt-celebrity)
+HDCyberbullying is a celebrity cyberbullying dataset we created, which was extracted from  [Cyberbullying dataset](https://www.kaggle.com/datasets/surekharamireddy/malignant-comment-classification) and [Fake news dataset](https://paperswithcode.com/dataset/fakenewsamt-celebrity)
 #### Emotion detection domain
 We use [GoEmotions dataset](https://paperswithcode.com/dataset/goemotions)
 
